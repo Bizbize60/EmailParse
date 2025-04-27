@@ -1,1 +1,1 @@
-# OdtuTeknoKentParsing
+# Diğer Branch'e Bakın
